@@ -198,8 +198,8 @@ input, button {
 
 .card_icon {
     position: absolute;
-    right: 1rem;
     top: 1rem;
+    right: 1rem;
     font-size: 1.3rem;
     background-color: white;
     padding-inline: .3rem;
